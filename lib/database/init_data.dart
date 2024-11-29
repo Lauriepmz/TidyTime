@@ -1,0 +1,2 @@
+Future<void> initDatabase() async {}
+
