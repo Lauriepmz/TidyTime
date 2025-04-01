@@ -6,10 +6,19 @@
 This project is currently in active development. While the core functionalities are being implemented, some features are still under construction. Contributions and feedback are welcome!
 
 ## Features (Planned & Implemented)
-- ✅ Task scheduling based on frequency (daily, weekly, monthly, etc.) - ✅ Customizable task categories and rooms - ✅ Smart task prioritization and optimization - 🚧 API integration for cloud sync (Upcoming) - 🚧 User authentication and multi-device sync (Upcoming) - 🚧 Advanced notification and reminder system (Upcoming) 
+- ✅ Task scheduling based on frequency (daily, weekly, monthly, etc.)
+- ✅ Customizable task categories and rooms
+- ✅ Smart task prioritization and optimization
+- 🚧 API integration for cloud sync (Upcoming)
+- 🚧 User authentication and multi-device sync (Upcoming)
+- 🚧 Advanced notification and reminder system (Upcoming) 
 
 ## Technologies Used 
-- **Flutter** (Dart) - **SQFlite** for local database management - **Hive** for temporary storage and state management - **BLoC Architecture** for efficient state management - **Android & iOS Support** (Cross-platform) 
+- **Flutter** (Dart)
+- **SQFlite** for local database management
+- **Hive** for temporary storage and state management
+- **BLoC Architecture** for efficient state management
+- **Android & iOS Support** (Cross-platform) 
 
 ## Installation & Setup 
 ### Prerequisites 
@@ -17,7 +26,8 @@ Flutter SDK installed ([Flutter Setup Guide](https://flutter.dev/docs/get-starte
 Android Studio or Visual Studio Code with Flutter extensions 
 
 ### Clone the repository 
-git clone https://github.com/yourusername/TidyTime.git cd TidyTime 
+git clone
+https://github.com/Lauriepmz/TidyTime.git
 
 ### Install dependencies
 flutter pub get 
